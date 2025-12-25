@@ -47,7 +47,7 @@ Inventory_Management_System
 
 └── inventory.db 
 
-##🧾 How Stock Management Works
+## 🧾 How Stock Management Works
 
 - Products are stored in the products table
 - Each product has a quantity column
@@ -56,46 +56,21 @@ Inventory_Management_System
 - Available stock is displayed using a Treeview table
 - All updates are saved permanently in SQLite
 
-##📋 Available Stock Feature
 
-Click “View Available Stock” button
+## 🎨 Dark / Light Mode
 
-Opens a new window
+- Toggle theme from the main dashboard
+- Applies to all windows
+- Improves usability and modern appearance
+- Centralized theme control using theme.py
 
-Displays:
 
-Product ID
-
-Product Name
-
-Category
-
-Quantity
-
-Price
-
-Data is fetched live from the database
-
-🎨 Dark / Light Mode
-
-Toggle theme from the main dashboard
-
-Applies to all windows
-
-Improves usability and modern appearance
-
-Centralized theme control using theme.py
-
-🧪 Future Enhancements
+## 🧪 Future Enhancements
 
 🔴 Low stock warning
-
 🔍 Product search & filter
-
 📤 Export stock report (CSV / PDF)
-
 🔐 Login system with roles
-
 📈 Graphs & analytics
 
 📸 Screenshots (Optional)
