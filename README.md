@@ -31,18 +31,21 @@ This project allows users to manage products, suppliers, and stock efficiently w
 
 Inventory_Management_System
 
-│
+├── main.py
 
-├── main.py # Main dashboard
+├── database.py 
 
-├── database.py # Database connection & table creation
+├── theme.py 
 
-├── theme.py # Dark / Light theme logic
-├── product.py # Product management
-├── supplier.py # Supplier management
-├── stock.py # Stock IN / OUT
-├── view_stock.py # Available stock table
-└── inventory.db # SQLite database
+├── product.py 
+
+├── supplier.py 
+
+├── stock.py 
+
+├── view_stock.py 
+
+└── inventory.db 
 
 ##🧾 How Stock Management Works
 
