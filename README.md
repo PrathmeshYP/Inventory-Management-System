@@ -68,20 +68,26 @@ Inventory_Management_System
 ## 🧪 Future Enhancements
 
 🔴 Low stock warning
+
 🔍 Product search & filter
+
 📤 Export stock report (CSV / PDF)
+
 🔐 Login system with roles
+
 📈 Graphs & analytics
+
 
 📸 Screenshots (Optional)
 
 Add screenshots of the dashboard, stock window, and dark/light mode here.
 
-👨‍💻 Author
+
+## 👨‍💻 Author
 
 Prathmesh Yadav Patil
 Python Developer | GUI & Database Applications
 
-📄 License
+## 📄 License
 
 This project is created for educational and learning purposes.
