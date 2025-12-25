@@ -30,9 +30,13 @@ This project allows users to manage products, suppliers, and stock efficiently w
 ## 📂 Project Structure
 
 Inventory_Management_System
+
 │
+
 ├── main.py # Main dashboard
+
 ├── database.py # Database connection & table creation
+
 ├── theme.py # Dark / Light theme logic
 ├── product.py # Product management
 ├── supplier.py # Supplier management
