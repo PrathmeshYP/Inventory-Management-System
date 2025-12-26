@@ -78,11 +78,6 @@ Inventory_Management_System
 📈 Graphs & analytics
 
 
-📸 Screenshots (Optional)
-
-Add screenshots of the dashboard, stock window, and dark/light mode here.
-
-
 ## 👨‍💻 Author
 
 Prathmesh Yadav Patil
