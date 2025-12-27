@@ -12,7 +12,7 @@ This project allows users to manage products, suppliers, and stock efficiently w
 - 📊 Stock Management (Stock IN & Stock OUT)
 - 📋 View Available Stock with quantity
 - 🌙 Dark Mode / ☀ Light Mode toggle
-- 🗄️ SQLite database (auto-created)
+- 🗄️ SQLite database
 - 🖥️ Advanced GUI using Tkinter & ttk
 - ✅ Input validation & error handling
 
@@ -23,7 +23,7 @@ This project allows users to manage products, suppliers, and stock efficiently w
 - **Language:** Python 3
 - **GUI:** Tkinter, ttk
 - **Database:** SQLite
-- **Architecture:** Modular (separate files for each feature)
+- **Architecture:** Modular 
 
 ---
 
@@ -52,7 +52,7 @@ Inventory_Management_System
 - Products are stored in the products table
 - Each product has a quantity column
 - Stock IN → increases quantity
-- Stock OUT → decreases quantity (no negative stock allowed)
+- Stock OUT → decreases quantity 
 - Available stock is displayed using a Treeview table
 - All updates are saved permanently in SQLite
 
