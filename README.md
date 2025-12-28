@@ -47,6 +47,8 @@ Inventory_Management_System
 
 └── inventory.db 
 
+---
+
 ## 🧾 How Stock Management Works
 
 - Products are stored in the products table
@@ -56,6 +58,7 @@ Inventory_Management_System
 - Available stock is displayed using a Treeview table
 - All updates are saved permanently in SQLite
 
+---
 
 ## 🎨 Dark / Light Mode
 
@@ -64,7 +67,8 @@ Inventory_Management_System
 - Improves usability and modern appearance
 - Centralized theme control using theme.py
 
-
+  ---
+  
 ## 🧪 Future Enhancements
 
 🔴 Low stock warning
@@ -77,11 +81,17 @@ Inventory_Management_System
 
 📈 Graphs & analytics
 
+---
+
+## Screenshots 
+
 
 ## 👨‍💻 Author
 
 Prathmesh Yadav Patil
 Python Developer | GUI & Database Applications
+
+---
 
 ## 📄 License
 
