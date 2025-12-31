@@ -92,7 +92,8 @@ Inventory_Management_System
 
 ## 👨‍💻 Author
 
-Prathmesh Yadav Patil
+Prathmesh YadavPatil
+
 Python Developer | GUI & Database Applications
 
 ---
