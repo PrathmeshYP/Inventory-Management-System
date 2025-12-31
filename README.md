@@ -60,10 +60,6 @@ Inventory_Management_System
 
 ---
 
-## Screenshots
-
-![image alt] (https://github.com/PrathmeshYP/Inventory-Management-System/blob/59db3dea3a6872e8328a1c2d82c2bb5da46c0218/Main.png)
-
 ## 🎨 Dark / Light Mode
 
 - Toggle theme from the main dashboard
