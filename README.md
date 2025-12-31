@@ -68,6 +68,10 @@ Inventory_Management_System
 - Centralized theme control using theme.py
 
   ---
+
+## Screenshots
+
+![image alt](https://github.com/PrathmeshYP/Inventory-Management-System/blob/57fab84880c0c3cf8ced3418b43ebefc33a8115e/Main.png)
   
 ## 🧪 Future Enhancements
 
