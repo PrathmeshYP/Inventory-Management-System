@@ -62,14 +62,7 @@ Inventory_Management_System
 
 ## Screenshots
 
-<table>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/521aa3ca-ff4b-4462-983f-16b74df4222b" width="800"></td>
-    <td><img src="https://github.com/user-attachments/assets/c212c399-019e-445c-b164-973e33769c29" width="800"></td>
-    <td><img src="https://github.com/user-attachments/assets/1618d0bc-41fd-42fe-81a0-9c44485c41a5" width="800"></td>
-    <td><img src="https://github.com/user-attachments/assets/5ea81a9f-492d-429a-86b6-d6aa381b17d9" width="800"></td>
-  </tr>
-</table>
+![image alt] (https://github.com/PrathmeshYP/Inventory-Management-System/blob/59db3dea3a6872e8328a1c2d82c2bb5da46c0218/Main.png)
 
 ## 🎨 Dark / Light Mode
 
