@@ -72,6 +72,8 @@ Inventory_Management_System
 ## Screenshots
 
 ![image alt](https://github.com/PrathmeshYP/Inventory-Management-System/blob/57fab84880c0c3cf8ced3418b43ebefc33a8115e/Main.png)
+
+![image alt](https://github.com/PrathmeshYP/Inventory-Management-System/blob/1c7fddf8b2da21125b34aee11beab3270b82f0ba/Stock%20Management.png)
   
 ## 🧪 Future Enhancements
 
