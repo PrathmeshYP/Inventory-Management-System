@@ -72,10 +72,10 @@ Inventory_Management_System
 ## Screenshots
 
 <p align="center">
-  <img src="https://github.com/PrathmeshYP/Inventory-Management-System/blob/57fab84880c0c3cf8ced3418b43ebefc33a8115e/Main.png" width="150">
-  <img src="https://github.com/PrathmeshYP/Inventory-Management-System/blob/1c7fddf8b2da21125b34aee11beab3270b82f0ba/Stock%20Management.png" width="150">
-  <img src="https://github.com/PrathmeshYP/Inventory-Management-System/blob/dcacca6002db2f47efa6232afaa9fe701b2e4089/Available%20Stock.png"width="150">
-  <img src="https://github.com/PrathmeshYP/Inventory-Management-System/blob/9d64551a331168832e24a29b177b7d82422670ea/Supplier%20MAnagement.png" width="150">
+  <img src="https://github.com/PrathmeshYP/Inventory-Management-System/blob/57fab84880c0c3cf8ced3418b43ebefc33a8115e/Main.png" width="175">
+  <img src="https://github.com/PrathmeshYP/Inventory-Management-System/blob/1c7fddf8b2da21125b34aee11beab3270b82f0ba/Stock%20Management.png" width="175">
+  <img src="https://github.com/PrathmeshYP/Inventory-Management-System/blob/dcacca6002db2f47efa6232afaa9fe701b2e4089/Available%20Stock.png"width="175">
+  <img src="https://github.com/PrathmeshYP/Inventory-Management-System/blob/9d64551a331168832e24a29b177b7d82422670ea/Supplier%20MAnagement.png" width="175">
 </p>
 
   
