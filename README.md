@@ -1,4 +1,4 @@
-# 📦 Inventory Management System (Python)
+# 📦 Inventory Management System 
 
 A complete **Inventory Management System** developed using **Python, Tkinter, and SQLite** with a modern **Dark / Light Mode GUI**.  
 This project allows users to manage products, suppliers, and stock efficiently with real-time database updates.
